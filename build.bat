@@ -1,0 +1,1 @@
+gcc main.c -o httpserver.exe -lWs2_32 -lMswsock -lAdvApi32
